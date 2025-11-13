@@ -18,7 +18,7 @@ function removeLastProduct() {
   products.pop()
 }
 
-
+// Array Lab Completed
 
 // Export the necessary parts for testing
 module.exports = {
